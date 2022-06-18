@@ -1,2 +1,2 @@
-# Web-Apps_Cuti
-Web Apps_Cuti ( PHP Full Developement std )
+# Cuti
+Sistem cuti fakultas Teknologi Informasi Universitas Yarsi berfungsi untuk mendaftar cuti secara online dan data-data cuti akan diorganisir untuk dosen dan karyawan yang berbeda dilingkungan FTI Universitas Yarsi. Dengan adanya sistem cuti online diharapkan akan membantu dosen dan karyawan dalam mengisi cuti data-data cuti akan dikelola secara terorganisir dan akan meminimalisir kesalahan yang akan terjadi.

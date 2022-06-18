@@ -1,0 +1,5 @@
+Password yang harus diganti
+
+config.php
+index.php
+kelola_data.php
